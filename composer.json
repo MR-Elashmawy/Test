@@ -1,0 +1,16 @@
+{
+    "name": "vendor/mohamed",
+    "require": {
+        "phpunit/phpunit": "^9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Mohamed\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed"
+        }
+    ]
+}
